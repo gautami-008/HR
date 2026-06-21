@@ -25,14 +25,16 @@ A high-impact executive dashboard translates complex data models into actionable
 
 
 
-+-----------------------------------------------------------------------+
-  [KPI Summary]                   [Trend Analysis]                 [Segmentations]     
-   - Revenue Performance        - Time-Series Forecasting        - Demographic Mix 
-  - Cost Controls              - Seasonal Volatility            - Geographic Mix  
-+-----------------------------------------------------------------------+
-  [Operational Filters]                                 [Global Slicers]    
-   - Dynamic Drill-Downs                                - Multi-Region     
-   - Cross-Filtering Charts                            - Time-Period      
+
+  [KPI Summary]                         [Trend Analysis]                                    [Segmentations]     
+   - Revenue Performance                - Time-Series Forecasting                           - Demographic Mix 
+  - Cost Controls                        - Seasonal Volatility                               - Geographic Mix  
+
+ 
+  
+  [Operational Filters]                                                                        [Global Slicers]    
+   - Dynamic Drill-Downs                                                                          - Multi-Region     
+   - Cross-Filtering Charts                                                                        - Time-Period      
 
 
 
