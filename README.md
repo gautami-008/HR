@@ -67,3 +67,13 @@ Data-Driven Culture: Empowering non-technical managers with self-service analyti
 Revenue Optimization: Early detection of customer churn patterns or supply chain bottlenecks enables businesses to intervene before profits are impacted.
 
 Executive Alignment: A standardized visual theme and unified metric dictionary ensure that all organizational leaders align on identical, accurate representations of corporate health.
+
+
+
+
+
+
+
+
+https://github.com/gautami-008/HR/blob/main/HR%20SS.png
+
